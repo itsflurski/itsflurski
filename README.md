@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @itsflurski
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate with other Developers! 
 - 📫 How to reach me is on Discord! 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I play video games! 
 
 <!---
 itsflurski/itsflurski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
